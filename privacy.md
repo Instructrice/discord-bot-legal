@@ -8,6 +8,6 @@ Le bot ne vend pas, ne partage pas et ne transmet pas vos données personnelles 
 
 Certaines données peuvent être stockées temporairement ou durablement si elles sont nécessaires au fonctionnement du bot.
 
-Vous pouvez demander la suppression de vos données en nous contactant à : ton-email@example.com
+Vous pouvez demander la suppression de vos données en nous contactant à : cyberesc@proton.me
 
 Cette politique peut être modifiée à tout moment.
