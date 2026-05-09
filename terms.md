@@ -8,4 +8,4 @@ L’utilisation abusive du bot, notamment pour spammer, contourner les règles d
 
 Nous nous réservons le droit de bloquer l’accès au bot à tout utilisateur ou serveur ne respectant pas ces conditions.
 
-Pour toute question, vous pouvez nous contacter à : ton-email@example.com
+Pour toute question, vous pouvez nous contacter à : cyberesc@proton.me
